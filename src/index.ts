@@ -39,6 +39,8 @@ class CuentaBancaria {
 
 const cuenta1 = new CuentaBancaria("123456", 100000, "Juan Pérez");
 const cuenta2 = new CuentaBancaria("987654", 50000, "María Gómez");
+const cuenta3 = new CuentaBancaria("123456", 100000, "lina beltran");
+const cuenta4 = new CuentaBancaria("987654", 50000, "cristian correa");
 
 cuenta1.depositar(20000);
 cuenta2.retirar(1000);
