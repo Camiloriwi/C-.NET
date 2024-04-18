@@ -45,13 +45,13 @@ project/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ts-examples-project.git
+    git clone https://github.com/Camiloriwi/Taller-typescript.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd ts-examples-project
+    cd Taller-typescript
     npm install
     ```
 
