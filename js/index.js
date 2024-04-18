@@ -43,7 +43,9 @@ function esPalindromo(cadena) {
     const cadenaInvertida = cadenaLimpia.split("").reverse().join("");
     return cadenaLimpia === cadenaInvertida;
 }
-const ejemploCadena = "Anita lava la tina";
-console.log(`"${ejemploCadena}" es un palíndromo: ${esPalindromo(ejemploCadena)}`);
-// 4. *Ejercicios adicionales:* "outDir": "js",   "include": ["src/**/*"],
+const ejemploUno = "Anita lava la tina";
+const ejemploDos = "reconocer";
+console.log(`"${ejemploUno}" es un palíndromo: ${esPalindromo(ejemploUno)}`);
+// 4. *Ejercicios adicionales:*
+// "outDir": "js",   "include": ["src/**/*"],
 //   "exclude": ["node_modules", "**/*.spec.ts"]

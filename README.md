@@ -22,6 +22,13 @@ project/
 │   ├── product.ts
 │   ├── bankAccount.ts
 │   ├── palindrome.ts
+|
+|──── js/
+│   ├── index.js
+│   ├── product.js
+│   ├── bankAccount.js
+│   ├── palindrome.js
+|
 ├── package.json
 ├── tsconfig.json
 └── README.md
